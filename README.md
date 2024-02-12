@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Pandas, Data analyst, Python
 - 📫 How to reach me hussein.shuriye@gmail.com
-- ⚡ Fun fact: astronomer and Marine Special Force
+- ⚡ Fun fact: astronomer and ship Navigator
 
 <!---
 hshuriye/hshuriye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
